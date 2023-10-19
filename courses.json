@@ -394,5 +394,15 @@
       "module_number" : 8,
       "certification" : "paid"
     },
+        {
+      "id" :  42,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "MITx: Computational Probability and Inference"
+      "link" : "https://www.edx.org/learn/probability/massachusetts-institute-of-technology-computational-probability-and-inference?index=product&queryID=8e89b22e77dfb237364a0d87a5f8fd55&position=16&results_level=second-level-results&term=&objectID=course-f02714c1-d821-4b12-872e-a55e84f5fa9d&campaign=Computational+Probability+and+Inference&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch"
+      "difficulty" : "intermediate",
+      "module_number" : 12,
+      "certification" : "paid"
+    },
   ]
 
